@@ -1,0 +1,47 @@
+Proponente => Pessoa física ou jurídica que se propõe a contratação de um seguro
+
+Corretora de Seguros => Pessoa física, jurídica ou profissional autônomo, que vai ser responsável pela intermediação da contratação entre o proponente e a seguradora
+
+Seguradora => Entidade jurídica responsável pela cobertura dos riscos contratados no seguro
+
+Proposta de Adesão (PA) => Documento físico ou digital, onde o proponente preenche todos os seus dados pessoais. Após isso, o proponente vai encaminhar essa proposta para a seguradora, que vai informar a aceitação ou não aceitação. Depois que for aprovado, o proponente passa a ser o segurado.
+
+Segurado => Pessoa física ou jurídica, que contratou um seguro e que está coberto por todos os riscos contratados naquela apólice.
+
+Apólice => Documento referente a contratação do seguro, onde vão estar discriminadas todas as regras, responsabilidades e vigência
+
+Vigência => Obrigatória em todo contrato, indica a data de início e a data de término (geralmente um ano, podendo ser renovada automaticamente ou não)
+
+Riscos => Eventos que independem da vontade da seguradora ou do segurado, que podem acontecer a qualquer momento, eventos para os quais o contrato tem cobertura.
+
+Prêmio => Termo usado para denominar o pagamento (podendo ser mensal ou anual) do seguro contratado (a maioria dos seguros entra em vigor após o pagamento do primeiro prêmio)
+
+Endosso => Documento emitido pela seguradora, constando todas as informações alteradas no contrato durante sua vigência.
+
+Sinistro => Acontecimento de um evento que esteja previsto dentro da apólice de seguro.
+
+Perda Total => Termo exclusivo do seguro para automóveis, para definir um veículo que não terá conserto pois sofre danos que iriam custar 75% ou mais do valor.
+
+Colisão => Choque de veículos.
+
+Avaria => Resultado da colisão.
+
+Franquia => Valor definido entre o proponente e a seguradora no momento da contratação, que deverá ser pago pelo segurado em alguns casos de sinistro.
+
+Bônus => Quanto mais tempo de vigência do seguro e menor o número de sinistros, maior o desconto para renovação do seguro.
+
+Beneficiário => Pessoa que vai se beneficiar com a contratação do seguro.
+
+Indenização => Valor recebido pelo beneficiário em casos de uso do seguro.
+
+Capital Segurado => Valor de cobertura contratado, valor limite da indenização.
+
+Participação Obrigatória do Segurado (POS) => Similar a franquia, mas custa uma porcentagem do sinistro e não um valor fixo.
+
+Carência => Começa a vigorar ao início da contratação do seguro, é o tempo que o segurado precisa esperar para poder contar com a cobertura do seguro.
+
+Risco => Patrimônio que será garantido.
+
+Perfil => Questionamentos feitos pela seguradora para avaliar a possibilidade de contratação do seguro.
+
+Terceiro => Pessoa indenizada por um dano causado pelo segurado.
